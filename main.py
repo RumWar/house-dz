@@ -1,7 +1,7 @@
 from tkinter import *
 
 def clicked():
-    lbl.configure(text="WoW")
+    btn.configure(text="WoW")
 
 window = Tk()
 window.title("W")
